@@ -187,7 +187,10 @@ backend services using <code>Appwrite</code>.
 ## 🎥 Demo Preview
 
 <p align="center">
-  <img src="./assets/demo-preview.png" width="700"/>
+  <img src="./images/addform" width="700"/>
+</p>
+<p align="center">
+  <img src="./images/watch.png" width="700"/>
 </p>
 
 ---
