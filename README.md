@@ -1,464 +1,139 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="80" alt="NextJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript"/>
-</p>
-
 <h1 align="center">🚀 React & Next.js Learning Journey</h1>
 
-<h2 align="center">📌 useState Assessment</h2>
-
 <p align="center">
-<b>
-A practice project focused on mastering React state management using the 
-<code>useState</code> hook with <code>TypeScript</code>.
-</b>
+A structured collection of projects documenting my journey learning modern React ecosystem tools and state management patterns.
 </p>
 
 ---
 
-# 🎥 Demo Preview
+# 🧭 Learning Progression (Latest → Earliest)
+
+---
+
+# 🐻 Zustand + Supabase Assignment
 
 <p align="center">
-  <img src="./assets/demo-preview.png" alt="Project Preview" width="700"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="70"/>
 </p>
+
+Modern global state management using **Zustand** with **Supabase backend integration**.
+
+### Concepts
+- Zustand global state
+- Backend integration
+- Async data handling
+
+🔗 Project  
+https://github.com/SaikatSingha531/react-next-learning-journey/tree/main/zustand-supabase
 
 ---
 
-# 🌐 Live Demo
+# 🗂 React Redux + Redux Toolkit Assignment
 
 <p align="center">
-  <a href="https://your-live-demo-link.vercel.app">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="70"/>
 </p>
 
----
+Advanced global state management using **Redux Toolkit**.
 
-## 📖 About This Assignment
+### Concepts
+- Redux architecture
+- createSlice
+- configureStore
+- scalable global state
 
-This project is part of my **React + Next.js learning journey** where I practice important frontend concepts through hands-on exercises.
-
-### 🎯 Goal of this Assignment
-
-The main purpose of this **useState assessment** is to understand:
-
-- How React manages **component state**
-- How UI updates when **state changes**
-- Handling **user events**
-- Writing **clean functional components**
+🔗 Project  
+https://github.com/SaikatSingha531/react-next-learning-journey/tree/main/reactredux-reduxtoolkit
 
 ---
 
-## 🧠 Concepts Practiced
-
-- React Functional Components  
-- `useState` Hook  
-- Event Handling  
-- Dynamic UI Rendering  
-- State Updates in React  
-- TypeScript with React
-
-
-
-
+# 🧠 useReducer + useContext + LocalStorage
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="80" alt="NextJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="70"/>
 </p>
 
-<h1 align="center">🚀 React & Next.js Learning Journey</h1>
+Advanced state management using **useReducer + Context API** with **LocalStorage persistence**.
 
-<h2 align="center">🌐 useEffect HTTP Request Assignment</h2>
+### Concepts
+- complex state logic
+- global context
+- persistent state
+
+🔗 Project  
+https://github.com/SaikatSingha531/react-next-learning-journey/tree/main/usereducer-usecontext-localstorage
+
+---
+
+# ⚡ useMemo & useCallback + Appwrite
 
 <p align="center">
-<b>
-A practice project focused on learning how to fetch and display API data using 
-<code>useEffect</code> and <code>HTTP Requests</code> in React with <code>TypeScript</code>.
-</b>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="70"/>
 </p>
+
+React performance optimization with **memoization hooks** and **Appwrite backend**.
+
+### Concepts
+- useMemo optimization
+- useCallback
+- preventing re-renders
+- backend integration
+
+🔗 Project  
+https://github.com/SaikatSingha531/react-next-learning-journey/tree/main/usememo-usecallback-appwrite
 
 ---
 
-# 🎥 Demo Preview
+# 🌐 useEffect HTTP Request
 
 <p align="center">
-  <img src="./assets/demo-preview.png" alt="Project Preview" width="700"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="70"/>
 </p>
+
+Fetching and displaying **API data using useEffect**.
+
+### Concepts
+- API calls
+- async operations
+- data rendering
+
+🔗 Project  
+https://github.com/SaikatSingha531/react-next-learning-journey/tree/main/useeffect-http-requeast
 
 ---
 
-# 🌐 Live Demo
+# 📌 useState Assessment
 
 <p align="center">
-  <a href="https://your-live-demo-link.vercel.app">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="70"/>
 </p>
 
----
+Fundamental React project focused on **state management using useState**.
 
-# 📖 About This Assignment
+### Concepts
+- component state
+- event handling
+- dynamic UI
 
-This project is part of my **React + Next.js learning journey** where I practice important frontend concepts through real-world exercises.
-
-In this assignment, I learned how to **fetch data from an API using HTTP requests** and update the UI using the **React `useEffect` hook**.
-
----
-
-# 🎯 Goal of this Assignment
-
-The main purpose of this **useEffect HTTP request project** is to understand:
-
-- How to fetch data from APIs
-- How `useEffect` works in React
-- How to manage async operations
-- Rendering API data dynamically
+🔗 Project  
+https://github.com/SaikatSingha531/react-next-learning-journey/tree/main/usestate
 
 ---
 
-# 🧠 Concepts Practiced
+# 👨‍💻 Author
 
-- React Functional Components  
-- `useEffect` Hook  
-- HTTP Requests (Fetch / API calls)  
-- Async JavaScript  
-- State Management with `useState`  
-- Dynamic UI Rendering  
-- TypeScript with React  
+**Saikat Singha**  
+Frontend Developer (Self-Taught)  
+📍 Kolkata, India 🇮🇳
 
----
-
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="80" alt="NextJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg" width="80" alt="Appwrite"/>
-</p>
-
-<h1 align="center">🚀 React & Next.js Learning Journey</h1>
-
-<h2 align="center">⚡ useMemo & useCallback + Appwrite Assignment</h2>
-
-<p align="center">
-<b>
-A practice project focused on optimizing React performance using 
-<code>useMemo</code> and <code>useCallback</code> while integrating backend services with <code>Appwrite</code>.
-</b>
-</p>
-
----
-
-# 🎥 Demo Preview
-
-<p align="center">
-  <img src="./assets/demo-preview.png" alt="Project Preview" width="700"/>
-</p>
-
----
-
-# 🌐 Live Demo
-
-<p align="center">
-  <a href="https://your-live-demo-link.vercel.app">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-# 📖 About This Assignment
-
-This project is part of my **React + Next.js learning journey**, where I explore more advanced React concepts and performance optimization techniques.
-
-In this assignment, I practiced how to **optimize component rendering** using **React memoization hooks** and connect the application with **Appwrite backend services**.
-
----
-
-# 🎯 Goal of this Assignment
-
-The main purpose of this project is to understand:
-
-- React performance optimization
-- Memoization techniques
-- Preventing unnecessary re-renders
-- Backend integration using Appwrite
-
----
-
-# 🧠 Concepts Practiced
-
-- React Functional Components  
-- `useMemo` Hook  
-- `useCallback` Hook  
-- Performance Optimization  
-- Preventing Unnecessary Re-renders  
-- Backend Integration with **Appwrite**  
-- State Management in React  
-- TypeScript with React  
-
----
-
-# ⚙️ Installation & Setup
-
-### Clone the repository
-
-bash
-git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="80" alt="NextJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript"/>
-</p>
-
-<h1 align="center">🚀 React & Next.js Learning Journey</h1>
-
-<h2 align="center">🧠 useReducer + useContext + LocalStorage Assignment</h2>
-
-<p align="center">
-<b>
-A practice project focused on advanced state management using 
-<code>useReducer</code>, <code>useContext</code>, and persistent state with 
-<code>LocalStorage</code> in React using <code>TypeScript</code>.
-</b>
-</p>
-
----
-
-# 🎥 Demo Preview
-
-<p align="center">
-  <img src="./assets/demo-preview.png" alt="Project Preview" width="700"/>
-</p>
-
----
-
-# 🌐 Live Demo
-
-<p align="center">
-  <a href="https://your-live-demo-link.vercel.app">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-# 📖 About This Assignment
-
-This project is part of my **React + Next.js learning journey**, where I practice advanced state management techniques in React.
-
-In this assignment, I implemented **global state management using `useReducer` and `useContext`**, while also storing data in **LocalStorage** to persist application state even after page refresh.
-
----
-
-# 🎯 Goal of this Assignment
-
-The main purpose of this project is to understand:
-
-- Managing complex state with **useReducer**
-- Sharing global state using **useContext**
-- Persisting application state with **LocalStorage**
-- Structuring scalable React applications
-
----
-
-# 🧠 Concepts Practiced
-
-- React Functional Components  
-- `useReducer` Hook  
-- `useContext` Hook  
-- Global State Management  
-- LocalStorage Persistence  
-- Component Communication  
-- TypeScript with React  
-
----
-
-# ⚙️ Installation & Setup
-
-### Clone the repository
-
-bash
-git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
-# ⚙️ Installation & Setup
-
-### Clone the repository
-
-bash
-git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="80" alt="Redux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript"/>
-</p>
-
-<h1 align="center">🚀 React & Next.js Learning Journey</h1>
-
-<h2 align="center">🗂 React Redux + Redux Toolkit Assignment</h2>
-
-<p align="center">
-<b>
-A practice project focused on managing global state using 
-<code>React Redux</code> and <code>Redux Toolkit</code> with 
-<code>TypeScript</code>.
-</b>
-</p>
-
----
-
-# 🎥 Demo Preview
-
-<p align="center">
-  <img src="./assets/demo-preview.png" alt="Project Preview" width="700"/>
-</p>
-
----
-
-# 🌐 Live Demo
-
-<p align="center">
-  <a href="https://your-live-demo-link.vercel.app">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-# 📖 About This Assignment
-
-This project is part of my **React + Next.js learning journey**, where I explore scalable state management using **Redux and Redux Toolkit**.
-
-In this assignment, I implemented **global application state using Redux Toolkit**, which simplifies Redux logic and improves developer experience.
-
----
-
-# 🎯 Goal of this Assignment
-
-The main purpose of this project is to understand:
-
-- Global state management with **Redux**
-- Simplifying Redux using **Redux Toolkit**
-- Managing complex state across components
-- Structuring scalable frontend applications
-
----
-
-# 🧠 Concepts Practiced
-
-- React Functional Components  
-- Redux Architecture  
-- Redux Toolkit (`createSlice`, `configureStore`)  
-- Global State Management  
-- Dispatching Actions  
-- Using Selectors  
-- TypeScript with React  
-
----
-
-# ⚙️ Installation & Setup
-
-### Clone the repository
-
-bash
-git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="80" alt="Supabase"/>
-</p>
-
-<h1 align="center">🚀 React & Next.js Learning Journey</h1>
-
-<h2 align="center">🐻 Zustand + Supabase Assignment</h2>
-
-<p align="center">
-<b>
-A practice project focused on modern state management using 
-<code>Zustand</code> and backend integration using 
-<code>Supabase</code> with <code>TypeScript</code>.
-</b>
-</p>
-
----
-
-# 🎥 Demo Preview
-
-<p align="center">
-  <img src="./assets/demo-preview.png" alt="Project Preview" width="700"/>
-</p>
-
----
-
-# 🌐 Live Demo
-
-<p align="center">
-  <a href="https://your-live-demo-link.vercel.app">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-# 📖 About This Assignment
-
-This project is part of my **React + Next.js learning journey**, where I explore modern tools for **state management and backend integration**.
-
-In this assignment, I implemented **Zustand for lightweight global state management** and integrated **Supabase as the backend service** for handling data operations.
-
----
-
-# 🎯 Goal of this Assignment
-
-The main purpose of this project is to understand:
-
-- Lightweight state management using **Zustand**
-- Backend integration using **Supabase**
-- Managing global state in scalable React applications
-- Handling async data from backend services
-
----
-
-# 🧠 Concepts Practiced
-
-- React Functional Components  
-- Zustand State Management  
-- Supabase Backend Integration  
-- Async Data Handling  
-- Global State Management  
-- TypeScript with React  
-
----
-
-# ⚙️ Installation & Setup
-
-### Clone the repository
-
-bash
-git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
+GitHub  
+https://github.com/SaikatSingha531
