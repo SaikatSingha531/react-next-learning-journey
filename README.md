@@ -31,7 +31,7 @@ A practice project focused on modern state management using
 ## 🎥 Demo Preview
 
 <p align="center">
-  <img src="./assets/demo-preview.png" width="700"/>
+  <img src="./images/zustand-crud.png" width="700"/>
 </p>
 
 ---
