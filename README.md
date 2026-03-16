@@ -17,6 +17,24 @@ A practice project focused on mastering React state management using the
 
 ---
 
+# 🎥 Demo Preview
+
+<p align="center">
+  <img src="./assets/demo-preview.png" alt="Project Preview" width="700"/>
+</p>
+
+---
+
+# 🌐 Live Demo
+
+<p align="center">
+  <a href="https://your-live-demo-link.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 ## 📖 About This Assignment
 
 This project is part of my **React + Next.js learning journey** where I practice important frontend concepts through hands-on exercises.
