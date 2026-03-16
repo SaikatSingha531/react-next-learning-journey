@@ -381,3 +381,84 @@ The main purpose of this project is to understand:
 
 bash
 git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="80" alt="Supabase"/>
+</p>
+
+<h1 align="center">🚀 React & Next.js Learning Journey</h1>
+
+<h2 align="center">🐻 Zustand + Supabase Assignment</h2>
+
+<p align="center">
+<b>
+A practice project focused on modern state management using 
+<code>Zustand</code> and backend integration using 
+<code>Supabase</code> with <code>TypeScript</code>.
+</b>
+</p>
+
+---
+
+# 🎥 Demo Preview
+
+<p align="center">
+  <img src="./assets/demo-preview.png" alt="Project Preview" width="700"/>
+</p>
+
+---
+
+# 🌐 Live Demo
+
+<p align="center">
+  <a href="https://your-live-demo-link.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+# 📖 About This Assignment
+
+This project is part of my **React + Next.js learning journey**, where I explore modern tools for **state management and backend integration**.
+
+In this assignment, I implemented **Zustand for lightweight global state management** and integrated **Supabase as the backend service** for handling data operations.
+
+---
+
+# 🎯 Goal of this Assignment
+
+The main purpose of this project is to understand:
+
+- Lightweight state management using **Zustand**
+- Backend integration using **Supabase**
+- Managing global state in scalable React applications
+- Handling async data from backend services
+
+---
+
+# 🧠 Concepts Practiced
+
+- React Functional Components  
+- Zustand State Management  
+- Supabase Backend Integration  
+- Async Data Handling  
+- Global State Management  
+- TypeScript with React  
+
+---
+
+# ⚙️ Installation & Setup
+
+### Clone the repository
+
+bash
+git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
