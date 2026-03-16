@@ -78,7 +78,8 @@ A practice project focused on managing global state using
 ## 🎥 Demo Preview
 
 <p align="center">
-  <img src="./assets/demo-preview.png" width="700"/>
+  <img src="./images/rtk-notification.png" width="700"/>
+  <img src="./images/rtk-quiz.png" width="700"/>
 </p>
 
 ---
@@ -86,7 +87,12 @@ A practice project focused on managing global state using
 ## 🌐 Live Demo
 
 <p align="center">
-<a href="https://your-live-demo-link.vercel.app">
+<a href="https://rtk-notification-system.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">
+<a href="https://rtk-quiz-app.vercel.app/">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
 </a>
 </p>
