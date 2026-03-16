@@ -1,1 +1,3 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="80" alt="NextJS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript"/> </p> <p align="center"> <b>A practice project focused on mastering React state management using the <code>useState</code> hook with TypeScript.</b> </p>
+###🚀 React & Next.js Learning Journey
+##useState Assessment
