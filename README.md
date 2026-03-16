@@ -132,7 +132,10 @@ state with <code>LocalStorage</code>.
 ## 🎥 Demo Preview
 
 <p align="center">
-  <img src="./assets/demo-preview.png" width="700"/>
+  <img src="./images/cart.png" width="700"/>
+</p>
+<p align="center">
+  <img src="./images/wizard.png" width="700"/>
 </p>
 
 ---
