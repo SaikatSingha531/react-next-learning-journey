@@ -140,7 +140,12 @@ state with <code>LocalStorage</code>.
 ## 🌐 Live Demo
 
 <p align="center">
-<a href="https://your-live-demo-link.vercel.app">
+<a href="https://wizard-form-wsa.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">
+<a href="https://add-to-cart-wsa-eigl.vercel.app/">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
 </a>
 </p>
