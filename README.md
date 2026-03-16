@@ -29,7 +29,7 @@ A practice project focused on modern state management using
 # 🌐 Live Demo
 
 <p align="center">
-  <a href="https://your-live-demo-link.vercel.app">
+  <a href="[https://your-live-demo-link.vercel.app](https://zustand-crud-eight.vercel.app/)">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
   </a>
 </p>
