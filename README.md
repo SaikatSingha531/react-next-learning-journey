@@ -211,6 +211,85 @@ The main purpose of this project is to understand:
 
 bash
 git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="80" alt="NextJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript"/>
+</p>
+
+<h1 align="center">🚀 React & Next.js Learning Journey</h1>
+
+<h2 align="center">🧠 useReducer + useContext + LocalStorage Assignment</h2>
+
+<p align="center">
+<b>
+A practice project focused on advanced state management using 
+<code>useReducer</code>, <code>useContext</code>, and persistent state with 
+<code>LocalStorage</code> in React using <code>TypeScript</code>.
+</b>
+</p>
+
+---
+
+# 🎥 Demo Preview
+
+<p align="center">
+  <img src="./assets/demo-preview.png" alt="Project Preview" width="700"/>
+</p>
+
+---
+
+# 🌐 Live Demo
+
+<p align="center">
+  <a href="https://your-live-demo-link.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+# 📖 About This Assignment
+
+This project is part of my **React + Next.js learning journey**, where I practice advanced state management techniques in React.
+
+In this assignment, I implemented **global state management using `useReducer` and `useContext`**, while also storing data in **LocalStorage** to persist application state even after page refresh.
+
+---
+
+# 🎯 Goal of this Assignment
+
+The main purpose of this project is to understand:
+
+- Managing complex state with **useReducer**
+- Sharing global state using **useContext**
+- Persisting application state with **LocalStorage**
+- Structuring scalable React applications
+
+---
+
+# 🧠 Concepts Practiced
+
+- React Functional Components  
+- `useReducer` Hook  
+- `useContext` Hook  
+- Global State Management  
+- LocalStorage Persistence  
+- Component Communication  
+- TypeScript with React  
+
+---
+
+# ⚙️ Installation & Setup
+
+### Clone the repository
+
+```bash
+git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
 # ⚙️ Installation & Setup
 
 ### Clone the repository
