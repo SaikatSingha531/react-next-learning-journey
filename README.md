@@ -78,8 +78,8 @@ A practice project focused on managing global state using
 ## 🎥 Demo Preview
 
 <p align="center">
-  <img src="./image/rtk-notification.png" width="700"/>
-  <img src="./image/rtk-quiz.png" width="700"/>
+  <img src="./images/rtk-notification.png" width="700"/>
+  <img src="./images/rtk-quiz.png" width="700"/>
 </p>
 
 ---
