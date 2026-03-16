@@ -288,7 +288,7 @@ The main purpose of this project is to understand:
 
 ### Clone the repository
 
-```bash
+bash
 git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
 # ⚙️ Installation & Setup
 
