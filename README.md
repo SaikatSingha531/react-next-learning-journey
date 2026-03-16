@@ -215,6 +215,9 @@ git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
 
 
 
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="80" alt="NextJS"/>
@@ -290,6 +293,88 @@ The main purpose of this project is to understand:
 
 bash
 git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
+# ⚙️ Installation & Setup
+
+### Clone the repository
+
+bash
+git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="80" alt="Redux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript"/>
+</p>
+
+<h1 align="center">🚀 React & Next.js Learning Journey</h1>
+
+<h2 align="center">🗂 React Redux + Redux Toolkit Assignment</h2>
+
+<p align="center">
+<b>
+A practice project focused on managing global state using 
+<code>React Redux</code> and <code>Redux Toolkit</code> with 
+<code>TypeScript</code>.
+</b>
+</p>
+
+---
+
+# 🎥 Demo Preview
+
+<p align="center">
+  <img src="./assets/demo-preview.png" alt="Project Preview" width="700"/>
+</p>
+
+---
+
+# 🌐 Live Demo
+
+<p align="center">
+  <a href="https://your-live-demo-link.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+# 📖 About This Assignment
+
+This project is part of my **React + Next.js learning journey**, where I explore scalable state management using **Redux and Redux Toolkit**.
+
+In this assignment, I implemented **global application state using Redux Toolkit**, which simplifies Redux logic and improves developer experience.
+
+---
+
+# 🎯 Goal of this Assignment
+
+The main purpose of this project is to understand:
+
+- Global state management with **Redux**
+- Simplifying Redux using **Redux Toolkit**
+- Managing complex state across components
+- Structuring scalable frontend applications
+
+---
+
+# 🧠 Concepts Practiced
+
+- React Functional Components  
+- Redux Architecture  
+- Redux Toolkit (`createSlice`, `configureStore`)  
+- Global State Management  
+- Dispatching Actions  
+- Using Selectors  
+- TypeScript with React  
+
+---
+
 # ⚙️ Installation & Setup
 
 ### Clone the repository
