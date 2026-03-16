@@ -131,9 +131,89 @@ The main purpose of this **useEffect HTTP request project** is to understand:
 
 ---
 
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="80" alt="NextJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg" width="80" alt="Appwrite"/>
+</p>
+
+<h1 align="center">🚀 React & Next.js Learning Journey</h1>
+
+<h2 align="center">⚡ useMemo & useCallback + Appwrite Assignment</h2>
+
+<p align="center">
+<b>
+A practice project focused on optimizing React performance using 
+<code>useMemo</code> and <code>useCallback</code> while integrating backend services with <code>Appwrite</code>.
+</b>
+</p>
+
+---
+
+# 🎥 Demo Preview
+
+<p align="center">
+  <img src="./assets/demo-preview.png" alt="Project Preview" width="700"/>
+</p>
+
+---
+
+# 🌐 Live Demo
+
+<p align="center">
+  <a href="https://your-live-demo-link.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+# 📖 About This Assignment
+
+This project is part of my **React + Next.js learning journey**, where I explore more advanced React concepts and performance optimization techniques.
+
+In this assignment, I practiced how to **optimize component rendering** using **React memoization hooks** and connect the application with **Appwrite backend services**.
+
+---
+
+# 🎯 Goal of this Assignment
+
+The main purpose of this project is to understand:
+
+- React performance optimization
+- Memoization techniques
+- Preventing unnecessary re-renders
+- Backend integration using Appwrite
+
+---
+
+# 🧠 Concepts Practiced
+
+- React Functional Components  
+- `useMemo` Hook  
+- `useCallback` Hook  
+- Performance Optimization  
+- Preventing Unnecessary Re-renders  
+- Backend Integration with **Appwrite**  
+- State Management in React  
+- TypeScript with React  
+
+---
+
 # ⚙️ Installation & Setup
 
 ### Clone the repository
 
-```bash
+bash
+git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
+# ⚙️ Installation & Setup
+
+### Clone the repository
+
+bash
 git clone https://github.com/SaikatSingha531/react-next-learning-journey.git
