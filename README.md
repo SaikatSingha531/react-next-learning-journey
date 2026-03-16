@@ -192,7 +192,7 @@ backend services using <code>Appwrite</code>.
 ## 🌐 Live Demo
 
 <p align="center">
-<a href="assignment3-mu-red.vercel.app">
+<a href="https://assignment3-mu-red.vercel.app/">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge"/>
 </a>
 </p>
