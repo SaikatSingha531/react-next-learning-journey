@@ -234,7 +234,7 @@ A project focused on fetching API data using
 ## 🎥 Demo Preview
 
 <p align="center">
-  <img src="./assets/demo-preview.png" width="700"/>
+  <img src="./images/joke" width="700"/>
 </p>
 
 ---
