@@ -277,7 +277,10 @@ A project focused on mastering React state management using the
 ## 🎥 Demo Preview
 
 <p align="center">
-  <img src="./assets/demo-preview.png" width="700"/>
+  <img src="./images/usestate.png" width="700"/>
+</p>
+<p align="center">
+  <img src="./images/usestate2.png" width="700"/>
 </p>
 
 ---
